@@ -1,5 +1,5 @@
 # Sketches
-##My sketches
+## My sketches
 
 All in one
 ![all in one](https://github.com/pavankonam/Sketches/assets/66836039/69938515-9b74-4c7c-a712-9ec501da9128)
@@ -122,7 +122,7 @@ Child Krishna
 ![child-krishna](https://github.com/pavankonam/Sketches/assets/66836039/9a508399-c034-42a4-884e-550c5cd66abc)
 
 
-##Illusions
+## Illusions
 
 Parents
 ![parents](https://github.com/pavankonam/Sketches/assets/66836039/cfa7dbfc-a343-4f67-82cc-041e4086e891)
